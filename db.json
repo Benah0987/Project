@@ -1,0 +1,219 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "avatar": "https://example.com/avatar1.jpg"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "password": "example456",
+      "avatar": "https://example.com/avatar1.jpg"
+    },
+    {
+      "id": 3,
+      "username": "bob_jenkins",
+      "email": "bob@example.com",
+      "password": "secure789",
+      "avatar": "https://example.com/avatar1.jpg"
+    },
+    {
+      "id": 4,
+      "username": "sarah_james",
+      "email": "sarah@example.com",
+      "password": "strongP@ss",
+      "avatar": "https://example.com/avatar1.jpg"
+    },
+    {
+      "id": 5,
+      "username": "alex_wilson",
+      "email": "alex@example.com",
+      "password": "testPass987",
+      "avatar": "https://example.com/avatar1.jpg"
+    },
+    [
+      {
+        "id": 1,
+        "username": "john_doe",
+        "email": "john@example.com",
+        "password": "password123",
+        "avatar": "https://example.com/avatar1.jpg"
+      },
+      {
+        "id": 2,
+        "username": "jane_smith",
+        "email": "jane@example.com",
+        "password": "example456",
+        "avatar": "https://example.com/avatar1.jpg"
+      },
+      {
+        "id": 3,
+        "username": "bob_jenkins",
+        "email": "bob@example.com",
+        "password": "secure789",
+        "avatar": "https://example.com/avatar1.jpg"
+      },
+      {
+        "id": 4,
+        "username": "sarah_james",
+        "email": "sarah@example.com",
+        "password": "strongP@ss",
+        "avatar": "https://example.com/avatar1.jpg"
+      },
+      {
+        "id": 5,
+        "username": "alex_wilson",
+        "email": "alex@example.com",
+        "password": "testPass987",
+        "avatar": "https://example.com/avatar1.jpg"
+      },
+      {
+        "username": "Ann",
+        "email": "ann@gmail.com",
+        "password": "aaaa",
+        "avatar": ""
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "username": "john_doe",
+        "email": "john@example.com",
+        "password": "password123",
+        "avatar": "https://example.com/avatar1.jpg"
+      },
+      {
+        "id": 2,
+        "username": "jane_smith",
+        "email": "jane@example.com",
+        "password": "example456",
+        "avatar": "https://example.com/avatar1.jpg"
+      },
+      {
+        "id": 3,
+        "username": "bob_jenkins",
+        "email": "bob@example.com",
+        "password": "secure789",
+        "avatar": "https://example.com/avatar1.jpg"
+      },
+      {
+        "id": 4,
+        "username": "sarah_james",
+        "email": "sarah@example.com",
+        "password": "strongP@ss",
+        "avatar": "https://example.com/avatar1.jpg"
+      },
+      {
+        "id": 5,
+        "username": "alex_wilson",
+        "email": "alex@example.com",
+        "password": "testPass987",
+        "avatar": "https://example.com/avatar1.jpg"
+      },
+      [
+        {
+          "id": 1,
+          "username": "john_doe",
+          "email": "john@example.com",
+          "password": "password123",
+          "avatar": "https://example.com/avatar1.jpg"
+        },
+        {
+          "id": 2,
+          "username": "jane_smith",
+          "email": "jane@example.com",
+          "password": "example456",
+          "avatar": "https://example.com/avatar1.jpg"
+        },
+        {
+          "id": 3,
+          "username": "bob_jenkins",
+          "email": "bob@example.com",
+          "password": "secure789",
+          "avatar": "https://example.com/avatar1.jpg"
+        },
+        {
+          "id": 4,
+          "username": "sarah_james",
+          "email": "sarah@example.com",
+          "password": "strongP@ss",
+          "avatar": "https://example.com/avatar1.jpg"
+        },
+        {
+          "id": 5,
+          "username": "alex_wilson",
+          "email": "alex@example.com",
+          "password": "testPass987",
+          "avatar": "https://example.com/avatar1.jpg"
+        },
+        {
+          "username": "Ann",
+          "email": "ann@gmail.com",
+          "password": "aaaa",
+          "avatar": ""
+        }
+      ],
+      {
+        "username": "Ann",
+        "email": "ann@gmail.com",
+        "password": "aaaa",
+        "avatar": ""
+      }
+    ]
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike Shoe",
+      "description": "Description of Product 1",
+      "price": 19.99,
+      "quantity": 10,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZHVjdHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 2,
+      "name": "Beauty",
+      "description": "Description of Product 2",
+      "price": 29.99,
+      "quantity": 15,
+      "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cHJvZHVjdHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "description": "Description of Product 3",
+      "price": 39.99,
+      "quantity": 8,
+      "image": "https://example.com/product2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Trousers",
+      "description": "Description of Product 4",
+      "price": 49.99,
+      "quantity": 20,
+      "image": "https://images.unsplash.com/photo-1638394440667-aa54a7c0a703?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRyb3VzZXJzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 5,
+      "name": "Television",
+      "description": "Description of Product 5",
+      "price": 59.99,
+      "quantity": 12,
+      "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHZ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 6,
+      "name": "pan",
+      "description": "Pan is good",
+      "image": "https://images.unsplash.com/photo-1592156328697-079f6ee0cfa5?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFufGVufDB8fDB8fHww",
+      "category": "clothes",
+      "price": 40,
+      "quantity": 44
+    }
+  ]
+}

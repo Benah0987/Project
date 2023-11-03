@@ -1,0 +1,12 @@
+.landing {
+  height: 90vh !important;
+}
+
+
+.blog{
+  height: 65vh !important;
+}
+.singleBlog{
+  min-height: 80vh !important;
+
+}
